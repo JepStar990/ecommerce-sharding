@@ -1,0 +1,1 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: List(-Xmx1G, -XX:+UseG1GC, -Dlogback.configurationFile=src/main/resources/logback.xml)[0m
